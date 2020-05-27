@@ -1,0 +1,13 @@
+Miniconda  d2l-zh
+
+
+conda env create -f environment.yml
+
+conda activate gluon 
+
+jupyter notework
+
+pip install jupyter notebook
+
+jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
+
