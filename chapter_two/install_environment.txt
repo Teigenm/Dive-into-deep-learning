@@ -1,13 +1,16 @@
-Miniconda  d2l-zh
+下载 Miniconda  d2l-zh
 
-
+创建环境
 conda env create -f environment.yml
 
+激活环境
 conda activate gluon 
 
 jupyter notework
 
+安装
 pip install jupyter notebook
 
+浏览器打开
 jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
 

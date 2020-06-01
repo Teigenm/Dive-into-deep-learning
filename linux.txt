@@ -1,0 +1,6 @@
+输出日志 后台运行
+nohup python -u test.py > log.log 2>&1 & 
+
+
+linux使用pip
+python -m pip install **
